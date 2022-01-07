@@ -97,5 +97,20 @@ body{
    
     
 }
+.Global{
+    background-image: url(images/shapes/shape-1.png);
+    width:100;
+
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size:20%;
+    padding: 5% 1%;
+   
+}
+.bold{
+    font-weight: bold;
+    font-size:40px;
+}
    
    
