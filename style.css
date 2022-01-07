@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0 auto;
+    margin: 0;
 
 }
     div.focus{
@@ -83,6 +83,18 @@ body{
 .Mission-area{
     margin-left:100px;
     margin-right: 100px;
+    
+}
+.develop{
+    background-image: url(images/shapes/shape-1.png);
+    width:100;
+
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+    background-size:20%;
+    padding: 5% 1%;
+   
     
 }
    
